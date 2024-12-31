@@ -34,6 +34,7 @@ Feel free to reach out to me at: joshua.foo.tse.ern@gmail.com
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/> </a>
 
 </p>
 
