@@ -1,4 +1,4 @@
-## Hello 👋 I'm <a href="https://www.linkedin.com/in/joshua-foo-tse-ern/" target="_blank" rel="noreferrer">Joshua</a>, a sophomore undergraduate student in Nanyang Technological University.
+## Hello👋 I'm <a href="https://www.linkedin.com/in/joshua-foo-tse-ern/" target="_blank" rel="noreferrer">Joshua</a>, a sophomore undergraduate student in Nanyang Technological University.
 
 <p>
 Feel free to reach out to me at: joshua.foo.tse.ern@gmail.com
