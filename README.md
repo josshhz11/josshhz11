@@ -22,6 +22,6 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Tools</h3>
 <p align="left"> 
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" alt="power bi" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png?20210102182532" alt="power bi" width="40" height="40"/> </a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354427/tableau.svg" alt="tableau" width="40" height="40"/> </a>
 </p>
