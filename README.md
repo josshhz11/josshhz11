@@ -31,3 +31,7 @@ Libraries/Frameworks:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
+## 📈 GitHub Stats 
+[![Joshua’s github stats](https://github-readme-stats.vercel.app/api?username=josshhz11)](https://github.com/josshhz11)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josshhz11&layout=compact)](https://github.com/josshhz11)
