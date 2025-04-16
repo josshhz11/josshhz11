@@ -35,7 +35,8 @@ Libraries/Frameworks:
 ## 👩‍💻 Projects
 
 - [josshhz11/NTU-Add-Drop-Automator](https://github.com/josshhz11/ntu-add-drop-automator): Full-Stack Web Application to automate and streamline course index swapping for 1400+ NTU students!
-- [josshhz11/AI-Mental-Health-Chatbot](https://github.com/josshhz11/AI-Mental-Health-Chatbot): Full-Stack Web Application for status tracking of discharged mental health patients by mental health practitioners! 
+- [josshhz11/AI-Mental-Health-Chatbot](https://github.com/josshhz11/AI-Mental-Health-Chatbot): Full-Stack Web Application for status tracking of discharged mental health patients by mental health practitioners!
+- [josshhz11/Statistical-Modelling-Football-Players-Valuation](https://github.com/josshhz11/Statistical-Modelling-Football-Players-Valuation): Statistical Modelling project exploring, analyzing and testing factors affecting football players’ market values using statistical methods for both numerical and categorical variables!
 - [josshhz11/Black-Scholes-Options-Pricing-Model](https://github.com/josshhz11/Black-Scholes-Options-Pricing-Model): Interactive Dashboards with Heatmap Visualizations for Black-Scholes Options Pricing Models hosted on Streamlit! 
 - [josshhz11/Project-Breast-Cancer](https://github.com/josshhz11/project-breast-cancer): End-to-end data science project incorporating regression classifier methods for prediction of breast cancer types in female patients based on genes!
 - And many more!
