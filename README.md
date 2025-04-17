@@ -45,6 +45,10 @@ Libraries/Frameworks:
 - [josshhz11/Statistical-Modelling-Football-Players-Valuation](https://github.com/josshhz11/Statistical-Modelling-Football-Players-Valuation): Statistical Modelling project exploring, analyzing and testing factors affecting football players’ market values using statistical methods for both numerical and categorical variables!
 - [josshhz11/Black-Scholes-Options-Pricing-Model](https://github.com/josshhz11/Black-Scholes-Options-Pricing-Model): Interactive Dashboards with Heatmap Visualizations for Black-Scholes Options Pricing Models hosted on Streamlit! 
 - [josshhz11/Project-Breast-Cancer](https://github.com/josshhz11/project-breast-cancer): End-to-end data science project incorporating regression classifier methods for prediction of breast cancer types in female patients based on genes!
+ 
+**Academics**
+- [josshhz11/Financial-App-Database](https://github.com/josshhz11/Financial-App-Database): Comprehensive SQL database simulating investor profiles, portfolios and transactions for an investment application (think Tiger, MooMoo), done using MS SQL Server!
+- [josshhz11/Hospital-Management-System](https://github.com/josshhz11/Hospital-Management-System): Java-based application designed to manage hospital operations such as patient records, appointments, billing, and staff roles with role-based access control for doctors, pharmacists, patients, and administrators!
 
 And many more!
 
