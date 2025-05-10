@@ -6,9 +6,8 @@ I'm an aspiring machine learning engineer/data scientist passionate about explor
 Currently as a 2nd year student in Nanyang Technological University pursuing a double degree in Data Science & Artificial Intelligence and Accountancy, I believe my strong academic foundations in Data Science & AI coupled with my experience in full-stack web development and an innate hunger to learn and improve the lives of others provide a unique value proposition to any tech-related role and project. My passion for technology pushes me to constantly develop my skillsets and push the boundaries of this constantly-developing industry.
 
 ## 🚀 What I'm Up To
-
-- 🤖 Exploring Machine Learning with [PyTorch](https://pytorch.org/) and [scikit-learn](https://scikit-learn.org/)
-- 💻 Building FastAPI applications with ML/AI capabilities
+- 🤖 Building an unsupervised ML quantitative analytics model
+- 💻 Exploring Machine Learning with [PyTorch](https://pytorch.org/) and [scikit-learn](https://scikit-learn.org/)
 - 💫 Learning Spring Boot, PostgreSQL, and DevOps skills and technologies such as CI/CD pipelines, Kubernetes, etc. 
 
 ## 🌐 Connect with me:
