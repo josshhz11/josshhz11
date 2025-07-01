@@ -8,7 +8,7 @@ Currently as an incoming 3rd year student in Nanyang Technological University pu
 ## 🚀 What I'm Up To
 - 🤖 Building LSTM ML quantitative analytics model
 - 💻 Exploring Machine Learning with [PyTorch](https://pytorch.org/) and [scikit-learn](https://scikit-learn.org/)
-- 💫 Learning Spring Boot, PostgreSQL, and DevOps skills and technologies such as CI/CD pipelines, Kubernetes, etc. 
+- 💫 Learning Spring Boot and DevOps skills and technologies such as CI/CD pipelines, Kubernetes, etc. 
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-foo-tse-ern/)
